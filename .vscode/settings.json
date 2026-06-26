@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Day9",
+            "database": "./Day09_practice.db"
+        }
+    ]
+}
